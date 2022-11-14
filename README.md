@@ -1,2 +1,2 @@
 # Purpur
-A download page for the Purpur installer.
+A program made for the sole purpose of scaling your Minecraft builds.
